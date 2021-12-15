@@ -1,3 +1,5 @@
+## This issue is now fixed
+
 ## Running a task with type `process` should emit the right events
 
 Steps to reproduce:
